@@ -33,6 +33,7 @@ Variable* variable_table::get_variable_by_name(const string& name)
         // если имя переменной совпадает с необходимым именем
         if (variable->name() == name)
         {
+
             // то возращаем эту переменную
             return variable;
         }

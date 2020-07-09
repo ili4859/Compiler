@@ -1,0 +1,13 @@
+var a1 : Int = 1
+var a2 : Int = 20
+let b_1 : Int = 10
+
+if a1 > 10
+{ 
+	a2 = a2+b_1
+}
+else
+{ 
+	a2 = a2 - b_1 
+} 
+print (a2)

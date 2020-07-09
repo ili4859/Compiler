@@ -1,0 +1,18 @@
+.586
+.model flat, stdcall
+
+
+data segment
+
+data ends
+
+
+text segment
+
+
+__main:
+	ret
+
+
+text ends
+end __main

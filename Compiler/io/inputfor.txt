@@ -1,0 +1,11 @@
+var a1 : Int = 1
+var a2 : Int = 20
+var a3 : Int = 20
+let b_1 : Int = 10
+var a : Int = 0
+
+for i in a1...a2 
+{
+	a = 5 + 7*(8-16/4) - 2*5*(2+43)
+	print (a)
+}

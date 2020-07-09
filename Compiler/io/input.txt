@@ -1,0 +1,32 @@
+var a1 : Int = 1
+var a2 : Int = 20
+var a3 : Int = a1
+var a4eds : Int = 0
+let b_1 : Int = 42
+
+for i in a1...a2 
+{
+	a3 = a2 + i
+	if a2<a1 
+	{
+		while a3 < b_1
+		{
+			if a3 > 10
+			{
+				a3 = a3+5
+			}
+			else
+			{
+				a3 = a3+1
+			}
+		}		
+	}
+	else
+	{
+		for r in 2...7
+		{
+			a4eds = b_1 - 2
+		}
+	}
+	print (a3)
+}

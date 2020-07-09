@@ -1,0 +1,5 @@
+var a1 : Int = 5
+let b_1 : Int = 12
+var a : Int
+a = 5 + 7*(8-16/4) - 2*5*(2+43)
+print (a)

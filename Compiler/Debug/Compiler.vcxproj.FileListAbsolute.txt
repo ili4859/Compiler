@@ -1,0 +1,2 @@
+C:\Users\ili48\OneDrive\Рабочий стол\Compiler\Debug\Compiler.exe.lastcodeanalysissucceeded
+C:\Users\ili48\OneDrive\Рабочий стол\Compiler\Compiler\Debug\NativeCodeAnalysis.read.1.tlog

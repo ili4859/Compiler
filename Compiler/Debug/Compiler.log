@@ -1,2 +1,14 @@
-﻿  Source.cpp
+﻿  codegenerator.cpp
+  Lexer.cpp
+C:\Users\ili48\OneDrive\Рабочий стол\Compiler\Compiler\Lexer.cpp(108,30): warning C4018: <: несоответствие типов со знаком и без знака
+  Node.cpp
+  Parser.cpp
+  Token.cpp
+  Source.cpp
+  Tree.cpp
+C:\Users\ili48\OneDrive\Рабочий стол\Compiler\Compiler\Tree.cpp(11,23): warning C4018: <: несоответствие типов со знаком и без знака
+  variable.cpp
+  variable_table.cpp
+  Компиляция...
+  Создание кода...
   Compiler.vcxproj -> C:\Users\ili48\OneDrive\Рабочий стол\Compiler\Debug\Compiler.exe

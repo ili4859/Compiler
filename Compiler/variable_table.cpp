@@ -26,6 +26,7 @@ void variable_table::remove_variable(std::string var)
 
 Variable* variable_table::get_variable_by_name(const string& name)
 {
+
     // проходим по массиву переменных
     for (auto& variable : _vars)
     {
